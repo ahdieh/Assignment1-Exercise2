@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class BankAccountTest  {
 	public static BankAccount bankAccount; // reference to the Person class
 	public static void main(String[] args) {
-		System.out.println("Program Started...");
+		System.out.println("Account transactions...");
 		Scanner input = new Scanner(System.in);
 		
 		// Prompt user for Account Number
